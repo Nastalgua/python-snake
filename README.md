@@ -5,4 +5,4 @@ The classic snake game written in python.
 This is the file with the working game.
 
 ### snake-template.py
-This is the file for students. It's a template, you illiterate f**k.
+This is the file for students.
